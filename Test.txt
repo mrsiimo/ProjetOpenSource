@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test d'ajout d'un text depuis GitHub
+=======
+Test ajouter une ligne avec GitHub
+>>>>>>> 35d747b9099ede1bb0d279ea2d2ee08366446b15
